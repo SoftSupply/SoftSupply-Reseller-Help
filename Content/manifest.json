@@ -1,43 +1,87 @@
 ﻿{
   "Name": "Reseller",
-  "Title": "Distribuidores",
-  "Description": "Quisque ultricies nulla velit. Vivamus mattis lacinia urna, eget finibus sapien ornare et. Aenean ut dapibus metus. Donec interdum dolor nec erat porttitor, quis lobortis sapien tempus.",
+  "Title": "Distribuidores TDPro",
+  "Description": "Manual para distribuidores de los productos de TDPro C.A. en el manejo del portal",
   "Index": [
     {
-      "Title": "<b>Curabitur ullamcorper</b>",
+      "Title": "<b>Afiliación</b>",
       "Items": [
         {
-          "Title": "Praesent",
-          "Link": ""
+          "Title": "Creación de cuenta",
+          "Link": "Reseller?id="
         },
         {
-          "Title": "Placerat",
-          "Link": ""
+          "Title": "Afiliación",
+          "Link": "Reseller?id="
         }
       ]
     },
     {
-      "Title": "Suspendisse",
+      "Title": "<b>Distribución</b>",
       "Items": [
         {
-          "Title": "Curabitur",
-          "Link": ""
+          "Title": "Distribución",
+          "Link": "Reseller?id="
         },
         {
-          "Title": "Aliquam",
-          "Link": ""
+          "Title": "Movimientos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Distribuidores",
+          "Link": "Reseller?id="
         }
       ]
     },
     {
-      "Title": "<i class='fa fa-google' style='margin-right: 8px;'></i>Google",
-      "Link": "http://www.google.com/",
-      "Target": "_blank"
+      "Title": "<b>Operaciones</b>",
+      "Items": [
+        {
+          "Title": "Operaciones",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Compra de puntos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Venta de puntos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Venta de productos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Patrocinar distribuidor",
+          "Link": "Reseller?id="
+        }
+      ]
     },
     {
-      "Title": "<i class='fa fa-arrow-left' style='margin-right: 8px;'></i>Volver",
-      "Link": "/",
-      "Class": "alert alert-warning"
+      "Title": "<b>Pendientes</b>",
+      "Items": [
+        {
+          "Title": "Pendientes",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Compra de puntos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Venta de puntos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Venta de productos",
+          "Link": "Reseller?id="
+        },
+        {
+          "Title": "Distribuidores patrocinados",
+          "Link": "Reseller?id="
+        }
+      ]
     }
   ]
 }
