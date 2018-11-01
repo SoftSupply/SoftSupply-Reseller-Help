@@ -1,17 +1,17 @@
 ﻿using System.Web.Mvc;
 
-namespace SoftSupply.Help.Areas.Generic
+namespace SoftSupply.Help.Areas.Reseller
 {
-    public class GenericAreaRegistration : AreaRegistration
+    public class ResellerAreaRegistration : AreaRegistration
     {
         public override string AreaName
         {
             get
             {
-                return "Generic";
+                return "Reseller";
             }
         }
-        
+
         public override void RegisterArea(AreaRegistrationContext context)
         {
             context.MapRoute(

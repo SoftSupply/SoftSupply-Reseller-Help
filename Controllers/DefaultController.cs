@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace SoftSupply.Help.Areas.Generic.Content
+namespace SoftSupply.Help.Areas.Reseller.Content
 {
     public class DefaultController : Controller
     {
