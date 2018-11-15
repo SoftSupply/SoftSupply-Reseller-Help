@@ -8,11 +8,11 @@
       "Items": [
         {
           "Title": "Creación de cuenta",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Afiliacion&key=Cuenta"
         },
         {
           "Title": "Afiliación",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Afiliacion&key=Principal"
         }
       ]
     },
@@ -21,15 +21,15 @@
       "Items": [
         {
           "Title": "Distribución",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Principal"
         },
         {
           "Title": "Movimientos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Movimientos"
         },
         {
           "Title": "Distribuidores",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Distribuidores"
         }
       ]
     },
@@ -38,23 +38,7 @@
       "Items": [
         {
           "Title": "Operaciones",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Compra de puntos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Venta de puntos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Venta de productos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Patrocinar distribuidor",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=Operaciones"
         }
       ]
     },
@@ -63,23 +47,7 @@
       "Items": [
         {
           "Title": "Pendientes",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Compra de puntos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Venta de puntos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Venta de productos",
-          "Link": "Reseller?id="
-        },
-        {
-          "Title": "Distribuidores patrocinados",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=Pendientes"
         }
       ]
     }
