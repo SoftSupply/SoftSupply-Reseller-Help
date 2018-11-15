@@ -12,7 +12,7 @@
         },
         {
           "Title": "Afiliación",
-          "Link": "Reseller?id=Afiliacion&key=Afiliacion"
+          "Link": "Reseller?id=Afiliacion&key=Principal"
         }
       ]
     },
@@ -21,7 +21,7 @@
       "Items": [
         {
           "Title": "Distribución",
-          "Link": "Reseller?id=Distribucion&key=Distribucion"
+          "Link": "Reseller?id=Distribucion&key=Principal"
         },
         {
           "Title": "Movimientos",
