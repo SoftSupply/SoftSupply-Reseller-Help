@@ -8,11 +8,11 @@
       "Items": [
         {
           "Title": "Creación de cuenta",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Afiliacion&key=Cuenta"
         },
         {
           "Title": "Afiliación",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Afiliacion&key=Principal"
         }
       ]
     },
@@ -21,15 +21,15 @@
       "Items": [
         {
           "Title": "Distribución",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Principal"
         },
         {
           "Title": "Movimientos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Movimientos"
         },
         {
           "Title": "Distribuidores",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Distribucion&key=Distribuidores"
         }
       ]
     },
@@ -38,23 +38,23 @@
       "Items": [
         {
           "Title": "Operaciones",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=Principal"
         },
         {
           "Title": "Compra de puntos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=ComprarPuntos"
         },
         {
           "Title": "Venta de puntos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=VenderPuntos"
         },
         {
           "Title": "Venta de productos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=VenderProductos"
         },
         {
           "Title": "Patrocinar distribuidor",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Operaciones&key=PatrocinarDistribuidor"
         }
       ]
     },
@@ -63,23 +63,23 @@
       "Items": [
         {
           "Title": "Pendientes",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=Principal"
         },
         {
           "Title": "Compra de puntos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=ComprarPuntos"
         },
         {
           "Title": "Venta de puntos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=VenderPuntos"
         },
         {
           "Title": "Venta de productos",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=VenderProductos"
         },
         {
           "Title": "Distribuidores patrocinados",
-          "Link": "Reseller?id="
+          "Link": "Reseller?id=Pendientes&key=DistribuidoresPatrocinados"
         }
       ]
     }
