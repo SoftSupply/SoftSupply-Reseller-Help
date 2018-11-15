@@ -1,6 +1,6 @@
 ﻿@{
     ViewBag.Manifest = MvcApplication.Areas[ViewContext.RouteData.DataTokens["area"].ToString()];
-    ViewBag.Title = "Afiliacion";
+    ViewBag.Title = "Creación de cuenta";
     ViewBag.SubTitle = "";
     ViewBag.MainTitle = $"Manual de distribuidores {ViewBag.Manifest.Title}";
 }
@@ -19,56 +19,77 @@
     </div>
     <div class="col-md-12">
         <p class="lead">
-            Ahora nos dispondremos a explicar cómo solicitar ser distribuidor partiendo de la cuenta previamente creada.
+            Aquí inicia tu travesía como futuro distribuidor de los productos de la casa TD Pro, en lo siguiente encontraras todo lo necesario para iniciar de manera exitosa.
         </p>
     </div>
     <div class="col-md-12">
         <ul class="index">
             <li>
-                <a href="#Solicitud">Solicitud</a>
+                <a href="#CreacionCuenta">Creación de cuenta</a>
             </li>
             <li>
-                <a href="#Autorizacion">Autorización</a>
+                <a href="#InicioSesion">Iniciar Sesión</a>
             </li>
         </ul>
     </div>
     <div class="col-md-12">
-        <h3 id="Solicitud">Solicitud</h3>
+        <h3 id="CreacionCuenta">Creación de Cuenta</h3>
         <div class="row">
             <div class="col-md-8">
                 <p>
-                    Con esto realizado en la barra de menú dirígete a la sección desplegable de “Solicitudes”, al ubicar el cursor sobre esta presionamos para que se despliegue y hacemos clic en la opción “Distribuidor”
+                    El primer paso a cumplir para empezar es la creación de la cuenta, para esto ingresa en nuestro portal web www.softsupply.com
                 </p>
             </div>
             <div class="col-md-4">
-                <a href="~/Areas/Reseller/Content/img/captures/imagen 6.jpg" class="thumbnail" data-lightbox="Solicitud Distribuidor" data-title="Solicitud Distribuidor">
-                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 6.jpg" alt="Solicitud Distribuidor" />
+                <a href="~/Areas/Reseller/Content/img/captures/imagen 1.jpg" class="thumbnail" data-lightbox="Creacion Cuenta" data-title="Creacion Cuenta">
+                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 1.jpg" alt="Creacion Cuenta" />
                 </a>
             </div>
             <div class="col-md-8">
                 <p>
-                    Esto mostrará el formulario de solicitud para ser distribuidor autorizado, el cual tras completarlo en su totalidad debemos confirmar el Captcha en el checkbox y hacer clic en “Confirmar”
+                    y en la esquina superior derecha en la barra azul oscuro de menú encontraremos la opción “Iniciar Sesión”, esto te redirigirá a una página donde encontraremos dos formularios.
                 </p>
             </div>
             <div class="col-md-4">
-                <a href="~/Areas/Reseller/Content/img/captures/imagen 7.png" class="thumbnail" data-lightbox="Solicitud Distribuidor Llena" data-title="Solicitud Distribuidor Llena">
-                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 7.png" alt="Solicitud Distribuidor Llena" />
+                <a href="~/Areas/Reseller/Content/img/captures/imagen 2.jpg" class="thumbnail" data-lightbox="Formularios" data-title="Formularios">
+                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 2.jpg" alt="Formularios" />
                 </a>
             </div>
             <div class="col-md-8">
                 <p>
-                    lo cual nos redirigirá a una página de confirmación que demuestra que nuestra solicitud se realizó de manera exitosa
+                    El formulario de la izquierda podremos identificarlo como el formulario de inicio de sesión, sin embargo, primero debemos llenar el formulario de la derecha llamado “Cree una cuenta nueva”
                 </p>
+            </div>
+            <div class="col-md-4">
+                <a href="~/Areas/Reseller/Content/img/captures/imagen 3.jpg" class="thumbnail" data-lightbox="Formularios Creacion" data-title="Formularios Creacion">
+                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 3.jpg" alt="Formularios Creacion" />
+                </a>
+            </div>
+            <div class="col-md-8">
+                <p>
+                    Aquí llenar los datos solicitados nombre, correo, contraseña y seleccionas tu país, aceptamos los términos y realizamos el Captcha al hacer clic en el checkbox, finalmente hacemos clic en el botón “Registrarse”
+                </p>
+            </div>
+            <div class="col-md-4">
+                <a href="~/Areas/Reseller/Content/img/captures/imagen 3.jpg" class="thumbnail" data-lightbox="Registro Satisfactorio" data-title="Registro Satisfactorio">
+                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 4.jpg" alt="Registro Satisfactorio" />
+                </a>
+                @*FALTA ESTA IMAGEN*@ 
             </div>
         </div>
     </div>
     <div class="col-md-12">
-        <h3 id="Autorizacion">Autorización</h3>
+        <h3 id="InicioSesion">Iniciar Sesión</h3>
         <div class="row">
             <div class="col-md-8">
                 <p>
-                    Tras esto, deberá esperar a ser contactado por el equipo de TDPro C.A. en su casa matriz, el cual tras evaluarlos los autorizará como distribuidores de los productos generados por nuestra casa de desarrollo. Con lo cual ya será parte de nuestra comunidad de distribuidores autorizados.
+                    De realizarse con éxito será redirigido a una página que le notificará el registro exitoso, ya tenemos el primer paso realizado, ahora podemos seleccionar el botón volver al inicio y volver a hacer clic en “Iniciar Sesión”
                 </p>
+            </div>
+            <div class="col-md-4">
+                <a href="~/Areas/Reseller/Content/img/captures/imagen 5.jpg" class="thumbnail" data-lightbox="Sesion Iniciada" data-title="Sesion Iniciada">
+                    <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 5.jpg" alt="Sesion Iniciada" />
+                </a>
             </div>
         </div>
     </div>
