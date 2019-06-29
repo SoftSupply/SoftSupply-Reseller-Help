@@ -8,7 +8,7 @@
       "Items": [
         {
           "Title": "Creación de cuenta",
-          "Link": "Reseller?id=Afiliacion&key=Principal"
+          "Link": "Reseller?id=Afiliacion&key=Cuenta"
         },
         {
           "Title": "Afiliación",
@@ -21,7 +21,7 @@
       "Items": [
         {
           "Title": "Distribución",
-          "Link": "Reseller?id=Distribucion&key=Principal"
+          "Link": "Reseller?id=Distribucion&key=Distribucion"
         },
         {
           "Title": "Movimientos",
@@ -38,7 +38,7 @@
       "Items": [
         {
           "Title": "Operaciones",
-          "Link": "Reseller?id=Operaciones&key=Principal"
+          "Link": "Reseller?id=Operaciones&key=Operaciones"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "Items": [
         {
           "Title": "Pendientes",
-          "Link": "Reseller?id=Pendientes&key=Principal"
+          "Link": "Reseller?id=Pendientes&key=Pendientes"
         }
       ]
     }

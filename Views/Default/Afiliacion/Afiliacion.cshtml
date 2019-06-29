@@ -1,6 +1,6 @@
 ﻿@{
     ViewBag.Manifest = MvcApplication.Areas[ViewContext.RouteData.DataTokens["area"].ToString()];
-    ViewBag.Title = "Afiliacion";
+    ViewBag.Title = "Afiliación";
     ViewBag.SubTitle = "";
     ViewBag.MainTitle = $"Manual de distribuidores {ViewBag.Manifest.Title}";
 }
@@ -47,18 +47,13 @@
             </div>
             <div class="col-md-8">
                 <p>
-                    Esto mostrará el formulario de solicitud para ser distribuidor autorizado, el cual tras completarlo en su totalidad debemos confirmar el Captcha en el checkbox y hacer clic en “Confirmar”
+                    Esto mostrará el formulario de solicitud para ser distribuidor autorizado, el cual tras completarlo en su totalidad debemos confirmar el Captcha en el checkbox y hacer clic en “Confirmar” lo cual nos redirigirá a una página de confirmación que demuestra que nuestra solicitud se realizó de manera exitosa.
                 </p>
             </div>
             <div class="col-md-4">
                 <a href="~/Areas/Reseller/Content/img/captures/imagen 7.png" class="thumbnail" data-lightbox="Solicitud Distribuidor Llena" data-title="Solicitud Distribuidor Llena">
                     <img class="img-responsive" src="~/Areas/Reseller/Content/img/captures/imagen 7.png" alt="Solicitud Distribuidor Llena" />
                 </a>
-            </div>
-            <div class="col-md-8">
-                <p>
-                    lo cual nos redirigirá a una página de confirmación que demuestra que nuestra solicitud se realizó de manera exitosa
-                </p>
             </div>
         </div>
     </div>
