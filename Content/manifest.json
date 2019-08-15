@@ -4,7 +4,7 @@
   "Description": "Manual para distribuidores de los productos de TDPro C.A. en el manejo del portal",
   "Index": [
     {
-      "Title": "<b>Afiliación</b>",
+      "Title": "<b>Inicio</b>",
       "Items": [
         {
           "Title": "Creación de cuenta",
@@ -20,7 +20,7 @@
       "Title": "<b>Distribución</b>",
       "Items": [
         {
-          "Title": "Distribución",
+          "Title": "Principal",
           "Link": "Reseller?id=Distribucion&key=Distribucion"
         },
         {
@@ -37,7 +37,7 @@
       "Title": "<b>Operaciones</b>",
       "Items": [
         {
-          "Title": "Operaciones",
+          "Title": "Principal",
           "Link": "Reseller?id=Operaciones&key=Operaciones"
         }
       ]
@@ -46,7 +46,7 @@
       "Title": "<b>Pendientes</b>",
       "Items": [
         {
-          "Title": "Pendientes",
+          "Title": "Principal",
           "Link": "Reseller?id=Pendientes&key=Pendientes"
         }
       ]
