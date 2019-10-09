@@ -1,6 +1,6 @@
 ﻿Todos los cambios recientes son reflejados en este documento
 
-## [1.0.1]
+## [1.0.3]
 ### Correcciones
 - Ajustes en textos
 
